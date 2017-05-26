@@ -1,0 +1,12 @@
+{
+  "name": "one",
+  "version": "1.0.0",
+  "description": "is a truc",
+  "main": "lib/index.js",
+  "repository": "git@github.com:zzuoleft/one.git",
+  "author": "zuo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
